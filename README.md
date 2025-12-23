@@ -1,7 +1,9 @@
 # Git_Day1_Task2
 
 #Creating a page steps: 
-    1. Setting
-    2. Pages
-    3. branch -> main
-    4. save
+1. Go to **Settings**  
+2. Open **Pages**  
+3. Select branch → **main**  
+4. Click **Save**
+
+page: https://mahmoud0ssama.github.io/Git_Day1_Task2/
